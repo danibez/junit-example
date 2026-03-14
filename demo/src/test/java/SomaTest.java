@@ -16,7 +16,7 @@ public class SomaTest {
     @Test
     public void helloTest(){
         Soma s = new Soma(2,3);
-        assertEquals("Hello world!", s.hello());
+        assertEquals("Hello World!", s.hello());
     }
     
 }

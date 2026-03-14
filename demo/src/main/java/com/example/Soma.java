@@ -10,7 +10,7 @@ public class Soma {
     }
 
     public int operacao(){
-        return num1-num2;
+        return num1+num2;
     }
 
     public String hello(){
